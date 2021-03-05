@@ -1,5 +1,16 @@
-### William 👋
+### Hi! 👋
 
+Welcome to my GitHub!
+
+
+<b> Checkout my GitHub stats! </b> <i> (click do expand) </i>
+<details>
+  <sumary> <b> Checkout my GitHub stats! </b> <i> (click do expand) </i> </sumary>
+  
+  <br>
+    oioi
+  
+</details>
 
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-neukamp&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
