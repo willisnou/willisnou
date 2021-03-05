@@ -3,7 +3,7 @@
 <!--
 **william-neukamp/william-neukamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-neukamp)](https://github.com/william-neukamp/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-neukamp)]
 
 Here are some ideas to get you started:
 
