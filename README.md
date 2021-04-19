@@ -1,17 +1,17 @@
-### Hi! 👋
+### Olá! 👋
 
-Welcome to my GitHub!
+Bem vindo ao meu GitHub!
 
 
-### <b> Checkout my GitHub stats! </b>
+### <b> Confira meus status do Github! </b>
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-neukamp&hide=contribs,prs&count_private=true&show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-### <b> My top languages! </br>
+### <b> Confira as top linguagens! </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-neukamp&hide=html&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-### <b> My Techonologies! </br>
+### <b> Minhas tecnologias! </br>
 
 <img src="https://img.shields.io/badge/C%23-5188FE?logo=.net&style=flat-square&labelColor=5188FE">
 <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square&labelcolor=007396">
