@@ -1,6 +1,6 @@
 Delphi, Python e Mercado Financeiro.
 
-## Skills & stack
+#
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=openjdk&logoColor=F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
